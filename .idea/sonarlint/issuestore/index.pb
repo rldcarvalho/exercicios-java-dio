@@ -1,0 +1,21 @@
+
+f
+6VariaveisTiposDadosOperadores/src/conversoes/Main.java,9\2\9208aeae58c8f481d20fb58e8197c428e7120e43
+f
+6VariaveisTiposDadosOperadores/src/operadores/Main.java,4\6\465785d26ca6d84ac1a80b4cd96fdf56fb3145c1
+f
+6VariaveisTiposDadosOperadores/src/tiposDados/Main.java,2\0\20da22e5c8d8547ecb048e4cd5a6e06b3d1ca9a8
+e
+5VariaveisTiposDadosOperadores/src/variaveis/Main.java,d\3\d3967b769cc0922d277a4077477e365b521ec9d5
+_
+/IDE/src/br/com/dio/calculadora/Calculadora.java,f\a\fa9f18d323f66e5589a0055f2e69d1f1298480d9
+Q
+!Metodos/src/calculadora/Main.java,2\5\25de05c03c6d8a5d099aeb9d504738a72049a502
+Q
+!Metodos/src/cumprimento/Main.java,a\6\a63af4ef691d772399fee4a6a177a2d70b3ddc33
+P
+ Metodos/src/emprestimo/Main.java,0\0\0026d3f11066621e1a00f04225152e6c4e66d123
+Z
+*Metodos/src/calcularArea/CalcularArea.java,e\c\ec89cec73ed731a9d6cc45a072822f63c10b5c11
+R
+"Metodos/src/calcularArea/Main.java,6\1\61fcc834e5de857169a0092b45fbc458b3198f3d
