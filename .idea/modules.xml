@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LoopsEArrays/LoopsEArrays.iml" filepath="$PROJECT_DIR$/LoopsEArrays/LoopsEArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariaveisTiposDadosOperadores/VariaveisTiposDadosOperadores.iml" filepath="$PROJECT_DIR$/VariaveisTiposDadosOperadores/VariaveisTiposDadosOperadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/exercicios-java-dio.iml" filepath="$PROJECT_DIR$/.idea/exercicios-java-dio.iml" />
