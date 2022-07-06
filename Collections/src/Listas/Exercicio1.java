@@ -13,14 +13,13 @@ public class Exercicio1 {
         Scanner scan = new Scanner(System.in);
         List<Double> temperaturas = new ArrayList<Double>();
 
-        /*
+
         for (int i = 0; i < 6; i++) {
             System.out.print("Digite a média da temperatura do mês " + (i + 1) + " :");
             double temperatura = scan.nextDouble();
             temperaturas.add(temperatura);
         }
-         */
-        Collections.addAll(temperaturas, 30.0, 28.0, 27.0, 25.0, 20.0, 15.0);
+        //Collections.addAll(temperaturas, 30.0, 28.0, 27.0, 25.0, 20.0, 15.0);
 
         Iterator<Double> iterator = temperaturas.iterator();
         Double soma = 0.0;

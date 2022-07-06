@@ -49,3 +49,14 @@ Z
 *LoopsEArrays/src/arrays/ex2Consoantes.java,8\4\84ef7bde998a1ce2d50b08910487511a5f5772c7
 \
 ,LoopsEArrays/src/arrays/ex1OrdemInversa.java,8\f\8f9a946fb00b1d2fbbcc571a0a7483e7752c9ddf
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+`
+0Collections/src/Listas/ExemploOrdenacaoList.java,5\2\5218ac0afc3fed83f540431a31547cb01a9f8b50
+W
+'Collections/src/Listas/ExemploList.java,5\d\5d2bd171be8d8a2265bb2404cc94f9a6548d374d
+V
+&Collections/src/Listas/Exercicio2.java,e\7\e7d3579d2a33d9ca4ed51eacc1bdb70c2f5eaaf8
+V
+&Collections/src/Listas/Exercicio1.java,f\c\fc541d0073b0c09f3b82a4d9f6c78eaba224d13c
