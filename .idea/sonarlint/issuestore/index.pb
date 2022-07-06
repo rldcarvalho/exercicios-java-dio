@@ -60,3 +60,15 @@ V
 &Collections/src/Listas/Exercicio2.java,e\7\e7d3579d2a33d9ca4ed51eacc1bdb70c2f5eaaf8
 V
 &Collections/src/Listas/Exercicio1.java,f\c\fc541d0073b0c09f3b82a4d9f6c78eaba224d13c
+S
+#Collections/src/Set/ExemploSet.java,3\1\31d16ca0a9157ae593556da81066c6931268123d
+Y
+)Collections/src/Set/ExemploOrdenacao.java,f\2\f2f09150bfdeda6159d6e5487f804679ab84e48b
+S
+#Collections/src/Set/Exercicio1.java,2\4\24eb10a82ba29bb28bf6229d054eeaa24f17ea5b
+S
+#Collections/src/Set/Exercicio2.java,8\4\842e5f1a7720ddd4f561e1bcfc5b2e33414d0d12
+Y
+)Collections/src/Map/ExemploOrdenacao.java,6\c\6c9a4ddb73ecced1174be66759ff818ba6fc6626
+S
+#Collections/src/Map/ExemploMap.java,b\0\b0aebafd5d39bf9d27d3cb0018805ea66b1765e9
