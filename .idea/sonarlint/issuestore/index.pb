@@ -52,8 +52,6 @@ Z
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-`
-0Collections/src/Listas/ExemploOrdenacaoList.java,5\2\5218ac0afc3fed83f540431a31547cb01a9f8b50
 W
 'Collections/src/Listas/ExemploList.java,5\d\5d2bd171be8d8a2265bb2404cc94f9a6548d374d
 V
@@ -62,8 +60,6 @@ V
 &Collections/src/Listas/Exercicio1.java,f\c\fc541d0073b0c09f3b82a4d9f6c78eaba224d13c
 S
 #Collections/src/Set/ExemploSet.java,3\1\31d16ca0a9157ae593556da81066c6931268123d
-Y
-)Collections/src/Set/ExemploOrdenacao.java,f\2\f2f09150bfdeda6159d6e5487f804679ab84e48b
 S
 #Collections/src/Set/Exercicio1.java,2\4\24eb10a82ba29bb28bf6229d054eeaa24f17ea5b
 S
