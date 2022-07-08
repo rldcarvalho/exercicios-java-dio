@@ -94,3 +94,9 @@ S
 #EstruturaDeDados/src/Set/Carro.java,c\5\c5a493a62078030313602bda81dee0902a2f2a8c
 R
 "EstruturaDeDados/src/Set/Main.java,8\8\88c8922ba282243acfd9655746158d41b516c175
+R
+"EstruturaDeDados/src/Map/Main.java,4\a\4a8dc9bf5022d0014963f33a6093c33904e37de5
+Q
+!Debugging/src/Debugging/Main.java,7\4\74b8502d4ef84eccb471680ecb2fa5476b544c1a
+a
+1Debugging/src/Debugging/CalculadoraDeMedidas.java,3\e\3e0a6bcb6be7f0fa5a024de65b4d452969eb41c7
