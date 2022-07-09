@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoopsEArrays/LoopsEArrays.iml" filepath="$PROJECT_DIR$/LoopsEArrays/LoopsEArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrientacaoAObjetos/OrientacaoAObjetos.iml" filepath="$PROJECT_DIR$/OrientacaoAObjetos/OrientacaoAObjetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariaveisTiposDadosOperadores/VariaveisTiposDadosOperadores.iml" filepath="$PROJECT_DIR$/VariaveisTiposDadosOperadores/VariaveisTiposDadosOperadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/exercicios-java-dio.iml" filepath="$PROJECT_DIR$/.idea/exercicios-java-dio.iml" />
     </modules>

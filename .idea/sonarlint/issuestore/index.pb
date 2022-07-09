@@ -39,16 +39,12 @@ V
 &LoopsEArrays/src/loops/ex5Tabuada.java,c\c\ccd094703ce0cef66275f9dd9e7a64b15d460e7b
 W
 'LoopsEArrays/src/loops/ex6Fatorial.java,1\7\176b91dd1ed2a4504ce334263a9bd14c08bbb69d
-Y
-)LoopsEArrays/src/loops/ex1NomeEIdade.java,5\b\5bc4c70ab55445619637880b6081d8d9c5d725a4
 V
 &LoopsEArrays/src/arrays/ex4Matriz.java,3\a\3a014d9b2c44858dd201a7cd689a767be61dba16
 a
 1LoopsEArrays/src/arrays/ex3NumerosAleatorios.java,8\4\84302dcfbe97878d55da195c83cd1e7874355edb
 Z
 *LoopsEArrays/src/arrays/ex2Consoantes.java,8\4\84ef7bde998a1ce2d50b08910487511a5f5772c7
-\
-,LoopsEArrays/src/arrays/ex1OrdemInversa.java,8\f\8f9a946fb00b1d2fbbcc571a0a7483e7752c9ddf
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
@@ -100,3 +96,19 @@ Q
 !Debugging/src/Debugging/Main.java,7\4\74b8502d4ef84eccb471680ecb2fa5476b544c1a
 a
 1Debugging/src/Debugging/CalculadoraDeMedidas.java,3\e\3e0a6bcb6be7f0fa5a024de65b4d452969eb41c7
+`
+0Exceptions/src/Exception/UncheckedException.java,6\3\63eeef3cf294bb47576fbca4ca5f22348fe1d416
+I
+romances-blake-crouch.txt,3\3\334be7e31c2d99bd740dc407b5aed4be109b3530
+e
+5Exceptions/src/CheckedException/CheckedException.java,7\3\73665f4e15f8c2e6aeba8ad1117b7f7127bef2b5
+n
+>Exceptions/src/ExceptionCustomizada/ExceptionCustomizada1.java,6\1\6180363ed1fc9ae56902a8ae94f6a1c20ae8213a
+n
+>Exceptions/src/ExceptionCustomizada/ExceptionCustomizada2.java,0\3\03fea416f6c73b82269254aaf70e7ce7d493514a
+q
+AExceptions/src/ExceptionCustomizada/DivisaoNaoExataException.java,b\b\bb2b27d1780558e770d09f8afcfc48ff1dd5b452
+Y
+)LoopsEArrays/src/loops/ex1NomeEIdade.java,5\b\5bc4c70ab55445619637880b6081d8d9c5d725a4
+\
+,LoopsEArrays/src/arrays/ex1OrdemInversa.java,8\f\8f9a946fb00b1d2fbbcc571a0a7483e7752c9ddf
