@@ -1,8 +1,8 @@
-package com.digitalinnovationone.jpa;
+package main.java.com.digitalinnovationone.jpa;
 
-import com.digitalinnovationone.jpa.model.Carro;
-import com.digitalinnovationone.jpa.model.Cliente;
-import com.digitalinnovationone.jpa.model.Multa;
+import main.java.com.digitalinnovationone.jpa.model.Carro;
+import main.java.com.digitalinnovationone.jpa.model.Cliente;
+import main.java.com.digitalinnovationone.jpa.model.Multa;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;

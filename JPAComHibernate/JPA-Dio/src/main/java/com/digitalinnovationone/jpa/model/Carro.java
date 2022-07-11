@@ -1,4 +1,4 @@
-package com.digitalinnovationone.jpa.model;
+package main.java.com.digitalinnovationone.jpa.model;
 
 import org.hibernate.annotations.Fetch;
 import org.hibernate.annotations.FetchMode;

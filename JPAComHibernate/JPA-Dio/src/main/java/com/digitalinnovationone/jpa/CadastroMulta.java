@@ -1,7 +1,7 @@
-package com.digitalinnovationone.jpa;
+package main.java.com.digitalinnovationone.jpa;
 
-import com.digitalinnovationone.jpa.model.Carro;
-import com.digitalinnovationone.jpa.model.Multa;
+import main.java.com.digitalinnovationone.jpa.model.Carro;
+import main.java.com.digitalinnovationone.jpa.model.Multa;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

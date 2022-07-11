@@ -1,4 +1,4 @@
-package com.digitalinnovationone.jpa.model;
+package main.java.com.digitalinnovationone.jpa.model;
 
 import javax.persistence.*;
 import java.util.List;

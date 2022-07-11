@@ -1,8 +1,8 @@
-package com.digitalinnovationone.jpa;
+package main.java.com.digitalinnovationone.jpa;
 
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
+import main.java.javax.persistence.EntityManager;
+import main.java.javax.persistence.EntityManagerFactory;
+import main.java.javax.persistence.Persistence;
 
 import com.digitalinnovationone.jpa.model.Cliente;
 
