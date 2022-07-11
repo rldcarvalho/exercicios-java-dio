@@ -156,8 +156,6 @@ h
 8OrientacaoAObjetos/src/Interface/OperacaoMatematica.java,2\1\214f09f0ecb4e41c577f424c4df905da906bc9d2
 a
 1OrientacaoAObjetos/src/Interface/Calculadora.java,5\f\5fc32711bcfb860828ba7dd3cbe629e1bb500023
-N
-BancoDeDados/JDBC/build.gradle,6\6\666a33164da909c40d61f964d897b27fb31a42ff
 l
 <BancoDeDados/JDBC/src/main/java/part3/ConnectionFactory.java,e\9\e9db932ae1ff26278cae6f842e356a73c2d9c674
 k
