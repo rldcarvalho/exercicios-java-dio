@@ -1,7 +1,5 @@
 package main.java.part3;
 
-import java.sql.*;
-import java.util.ArrayList;
 import java.util.List;
 
 public class QueriesExecution {
