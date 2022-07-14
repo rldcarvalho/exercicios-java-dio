@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/BancoDeDados/JPA/JPA.iml" filepath="$PROJECT_DIR$/BancoDeDados/JPA/JPA.iml" />
       <module fileurl="file://$PROJECT_DIR$/JPAComHibernate/JPA-Dio/JPA-Dio.iml" filepath="$PROJECT_DIR$/JPAComHibernate/JPA-Dio/JPA-Dio.iml" />
       <module fileurl="file://$PROJECT_DIR$/JPAComHibernate/JPAComHibernate.iml" filepath="$PROJECT_DIR$/JPAComHibernate/JPAComHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUnit/JUnit.iml" filepath="$PROJECT_DIR$/JUnit/JUnit.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoopsEArrays/LoopsEArrays.iml" filepath="$PROJECT_DIR$/LoopsEArrays/LoopsEArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/OrientacaoAObjetos/OrientacaoAObjetos.iml" filepath="$PROJECT_DIR$/OrientacaoAObjetos/OrientacaoAObjetos.iml" />
